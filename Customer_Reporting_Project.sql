@@ -1,1 +1,0 @@
-Delete Customer_Reporting_Project.sql
