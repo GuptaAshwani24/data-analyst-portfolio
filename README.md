@@ -24,10 +24,24 @@ I enjoy solving business problems using data and continuously improving my analy
 
 ### **1️⃣ SQL Analytics**
 
-Structured queries with documentation, business questions, and optimized solutions.
+**📊 SQL Customer & Product Analytics**
+
+This SQL project analyzes customer behavior and product performance using T-SQL, CTEs, joins, and window functions on the fact_sales dataset.
+
+**Key Deliverables**
+
+•	Customer metrics: total sales, order volume, recency, lifespan, segmentation, AOV, monthly spend
+
+•	Product metrics: revenue ranking, sales volume, customer count, ASP, AOR, monthly revenue, recency
+
+•	Clean, optimized SQL scripts using multi-layer CTE pipelines
+
+•	End-to-end analytical workflow using SQL Server
+
 👉 **SQL Sales Project:** https://github.com/GuptaAshwani24/data-analyst-portfolio/tree/main/sql_sales_project
 
 ---
+
 
 ### **2️⃣ Power BI Dashboards**
 
@@ -36,40 +50,40 @@ Explore the project folders for detailed breakdowns and screenshots.
 
 ---
 
-# 🏡 **Housing Market Analysis (Power BI)**
+## 🏡 **Housing Market Analysis (Power BI)**
 
-## 📌 **Project Overview**
+### 📌 **Project Overview**
 
 The **Housing Market Analysis Dashboard** provides a detailed evaluation of housing trends across different regions and property types.
 It helps users understand pricing dynamics, inflation impact, and valuation efficiency through SQM analysis.
 
-## 🎯 **Key Insights**
+### 🎯 **Key Insights**
 
 * Comparison of **Average Offer Price vs Purchase Price** by house type
 * Trends in **Inflation**, **Nominal Interest Rate**, and **Yield**
 * Analysis of **Average SQM** and **SQM Price**
 * Multiple slicers (Area, City, Region, Sales Type) for dynamic exploration
 
-## 🛠 **Tech Stack**
+### 🛠 **Tech Stack**
 
 * Power BI
 * Power Query (ETL transformation)
 * DAX (custom measures & KPIs)
 * Data Modeling
 
-## 📸 **Dashboard Preview**
+### 📸 **Dashboard Preview**
 https://github.com/GuptaAshwani24/data-analyst-portfolio/tree/main/Power%20BI%20Projects/House%20Market%20Analysis
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🏏 **Cricket Performance Dashboard (Power BI)**
+## 🏏 **Cricket Performance Dashboard (Power BI)**
 
-## 📌 **Project Overview**
+### 📌 **Project Overview**
 
 This dashboard analyzes the historical performance of cricket players across **Batting**, **Bowling**, and **Fielding** metrics.
 Users can select players and career spans to instantly view their consolidated performance statistics.
 
-## 📊 **Highlights**
+### 📊 **Highlights**
 
 * Overs bowled, wickets, strike rate
 * Matches & innings distribution
@@ -79,19 +93,19 @@ Users can select players and career spans to instantly view their consolidated p
 * Keeper vs fielder stats
   
 
-## 🛠 **Tech Stack**
+### 🛠 **Tech Stack**
 
 * Power BI
 * DAX Metrics
 * Power Query
 * Custom design & layout
 
-## 📸 **Dashboard Preview**
+### 📸 **Dashboard Preview**
 https://github.com/GuptaAshwani24/data-analyst-portfolio/tree/main/Power%20BI%20Projects/Cricket%20Dashboard
 
 ---
 
-# 📂 **Repository Structure**
+## 📂 **Repository Structure**
 
 ```plaintext
 data-analyst-portfolio/
@@ -112,7 +126,7 @@ data-analyst-portfolio/
 
 ---
 
-# 🎯 **Skills Demonstrated**
+## 🎯 **Skills Demonstrated**
 
 * Data Cleaning & Transformation
 * ETL Pipelines (Power Query)
@@ -123,7 +137,7 @@ data-analyst-portfolio/
 
 ---
 
-# 📬 **Contact**
+## 📬 **Contact**
 
 If you'd like to collaborate or explore more, feel free to connect!
 
