@@ -71,23 +71,13 @@ Users can select players and career spans to instantly view their consolidated p
 
 ## 📊 **Highlights**
 
-### 🔹 Bowling
-
 * Overs bowled, wickets, strike rate
-* Economy rate, best bowling figures
 * Matches & innings distribution
-
-### 🔹 Batting
-
 * Strike rate, total runs, highest score
-* 4s, 6s, averages
 * Not outs, innings, centuries
-
-### 🔹 Fielding
-
 * Catches, dismissals per innings
 * Keeper vs fielder stats
-* Match & innings breakdown
+  
 
 ## 🛠 **Tech Stack**
 
@@ -138,5 +128,9 @@ data-analyst-portfolio/
 If you'd like to collaborate or explore more, feel free to connect!
 
 **Ashwani Gupta**
+
+📞 Phone: +91 85629 59411
+
 📧 Email: ashwanigupta.450@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
