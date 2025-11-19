@@ -111,17 +111,16 @@ https://github.com/GuptaAshwani24/data-analyst-portfolio/tree/main/Power%20BI%20
 data-analyst-portfolio/
 │
 ├── sql_sales_project/
+|    └── README.md
 │
 └── PowerBI_Projects/
       ├── House_Analysis/
       │     ├── Housing_Analysis.pbix
-      │     ├── screenshots/
-      │     └── README.md
+      │     └── screenshots/
       │
       └── Cricket_Dashboard/
             ├── Cricket_Analysis.pbix
-            ├── screenshots/
-            └── README.md
+            └── screenshots/
 ```
 
 ---
