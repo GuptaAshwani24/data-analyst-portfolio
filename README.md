@@ -58,7 +58,7 @@ It helps users understand pricing dynamics, inflation impact, and valuation effi
 * Data Modeling
 
 ## 📸 **Dashboard Preview**
-https://github.com/GuptaAshwani24/data-analyst-portfolio/tree/main/Power%20BI%20Projects/Cricket%20Dashboard
+https://github.com/GuptaAshwani24/data-analyst-portfolio/tree/main/Power%20BI%20Projects/House%20Market%20Analysis
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
