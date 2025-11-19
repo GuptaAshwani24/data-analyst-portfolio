@@ -140,7 +140,3 @@ If you'd like to collaborate or explore more, feel free to connect!
 **Ashwani Gupta**
 📧 Email: ashwanigupta.450@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-
----
-
-If you'd like, I can also format this README with **badges**, **tables**, or a more **visual layout** to make it look even more premium.
